@@ -2,3 +2,5 @@ Hello, Git Hub!
 THis is my first edit
 This is my new line
 adding a line from git hub
+
+Today is Thursday 4th Sep 2025
